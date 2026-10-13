@@ -1,4 +1,5 @@
 import "./ImcCalc.css";
+import Button from "./Button";
 
 const ImcCalc = () => {
   return <div id="calc-container">
